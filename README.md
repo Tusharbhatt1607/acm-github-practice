@@ -180,6 +180,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *S*
 
 - ### *T*
+- [Tushar Bhatt](https://github.com/tusharbhatt1607)
 
 - ### *U*
 
